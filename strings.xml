@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demetra</string>
+    <string name="demetra">Demetra</string>
+    <string name="ciao">Ciao!</string>
+    <string name="clicca_per_iniziare">Clicca per iniziare</string>
+    <string name="login">Login</string>
+</resources>
