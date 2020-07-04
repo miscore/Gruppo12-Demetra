@@ -7,7 +7,7 @@
     android:layout_height="match_parent">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/sfondo"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:adjustViewBounds="true"
@@ -23,7 +23,7 @@
         app:srcCompat="@drawable/rectangle_278" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/sfondo2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -89,4 +89,5 @@ android:gravity="center">
     android:layout_height="0dp"
     android:layout_weight="wrap_content"
     android:background="@drawable/Inputbox"
+
     android:text="@string/login" /></LinearLayout>
